@@ -4,8 +4,7 @@
 //
 //  Created by العــفاف . on 04/05/1443 AH.
 //
-//Create  3 struct for Response, VolumeInfo ,VolumeInfo
-//creat funcion getBook()
+
 import UIKit
 
 struct Response : Codable {
